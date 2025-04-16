@@ -32,7 +32,7 @@ project-root
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/flask-auth-app.git  
+   git clone https://github.com/Roopashree-3/PRODIGY_FS_01.git
    cd flask-auth-app
 
 2. Create a virtual environment and activate it:
